@@ -1,8 +1,12 @@
 # AD User Management GUI Tool
 
+## "We don't need no stinking badges!"
+
 ![PowerShell](https://img.shields.io/badge/language-PowerShell-5391FE?logo=powershell&logoColor=white)
 
 ![PowerShell Lint](https://github.com/jason-adams-eng/ADUserGUI/actions/workflows/lint.yml/badge.svg)
+
+![Markdown Lint](https://github.com/jason-adams-eng/ADUserGUI/actions/workflows/mdlint.yml/badge.svg)
 
 This PowerShell-based GUI tool provides an interface for searching and managing Active Directory user accounts. It uses a XAML-based UI for a user-friendly experience and integrates with the ActiveDirectory module to perform actions like:
 
